@@ -1,1 +1,1 @@
-"# festx-word-war-timer" 
+# festx-word-war-timer
